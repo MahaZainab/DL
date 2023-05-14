@@ -26,8 +26,19 @@ Gym (for reinforcement learning projects) 🏋️
 You can install these packages using pip:
 pip install tensorflow keras torch gym
 
+### Usage
+1. Clone the repository using:
+git clone https://github.com/MahaZainab/Deep-Learning.git
 
-### 🤝 Contributing
+2. Navigate into the desired project directory:
+cd Deep-Learning/Image_Classification
+
+3. Run the Python script for the project (for example)
+ python mnist_classification.py
+
+
+
+## 🤝 Contributing
 I welcome contributions! Please see the CONTRIBUTING.md file for details on how to contribute.
 
 #### 👤 Authors
