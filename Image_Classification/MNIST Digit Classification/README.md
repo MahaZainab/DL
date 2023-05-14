@@ -18,7 +18,7 @@ You can install these packages using pip:
 pip install keras tensorflow
 
 ## Authors
-Maha Zainab
+[Maha Zainab](https://github.com/MahaZainab)
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
