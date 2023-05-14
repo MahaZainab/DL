@@ -9,7 +9,9 @@ These instructions will guide you on how to run the project on your local machin
 You need to have the following packages installed:
 
 Python 3.x
+
 Keras
+
 TensorFlow
 
 You can install these packages using pip:
