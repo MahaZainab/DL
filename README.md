@@ -14,10 +14,15 @@ Each directory contains related projects, each with its own dedicated README fil
 You will need the following software installed:
 
 Python 3.x 🐍
+
 TensorFlow 🤖
+
 Keras 🧠
+
 PyTorch 🔥
+
 Gym (for reinforcement learning projects) 🏋️
+
 You can install these packages using pip:
 pip install tensorflow keras torch gym
 
